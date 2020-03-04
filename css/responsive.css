@@ -1,0 +1,206 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .icon-mr-2 {
+        left: 40%;
+    }
+
+}
+
+
+/* Normal desktop (LG) :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .about-padding {
+        padding: 71px 0px 63px 0px;
+    }
+    .service-cont p {
+        padding-right: 0px;
+    }
+    .icon-mr-2 {
+        left: 100px;
+    }
+    .counter {
+        font-size: 69px;
+    }
+    .pt-135 {
+        padding-top: 0px;
+    }
+    .content-font h3 {
+        font-size: 42px;
+    }
+    .portfolio-menu button {
+        margin: 0px 10px;
+    }
+    .heading-content-remove {
+        margin-bottom: 50px;
+    }
+    .test-all {
+        padding-top: 40px;
+    }
+    .mt-90 {
+        margin-top: 50px;
+    }
+    .pt-135 {
+        padding-top: 50px;
+    }
+    .heading-color::before {
+        top: 130px;
+    }
+    .pt-160 {
+        padding-top: 50px;
+    }
+    .heading-content-remove h3 {
+        font-size: 48px;
+    }
+    .blog-content {
+        margin-bottom: 30px;
+    }
+    .blog-img img {
+        width: 100%;
+    }
+    .heading-content-remove h3 {
+        font-size: 57px;
+    }
+    .footer-bg img {
+        bottom: -449px;
+        right: 0px;
+    }
+    .slider-bg-2 img {
+        width: 100%;
+    }
+    .meanmenu-reveal {
+        position: absolute;
+        top: 0;
+    }
+}
+
+ 
+/* Tablet desktop (MD) :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .main-menu ul li {
+        margin: 0 9px;
+    }
+    .slider-img img {
+        padding-top: 180px;
+        width: 100%;
+    }
+    .slider-content {
+        padding-top: 190px;
+    }
+    .slider-text h2 {
+        font-size: 50px;
+    }
+    .slider-text span {
+        font-size: 50px;
+    }
+    .slider-bg-2 img {
+        margin-top: 190px;
+        width: 100%;
+    }
+    .icon-mr-2 {
+        left: 55px;
+    }
+    .service-cont p {
+        padding-right: 0px;
+    }
+    .content-font h3 {
+        font-size: 37px;
+        margin-bottom: -16px;
+    }
+    .portfolio-menu button {
+        margin: 0 6px;
+    }
+    .slider-btn {
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+    .test-all {
+        padding-top: 100px;
+    }
+    .btn-mt {
+        margin-top: 30px;
+    }
+    .blog-img img {
+        width: 100%;
+    }
+    .transparent-header .mean-container a.meanmenu-reveal {
+        border: 1px solid #000;
+        color: #000;
+    }
+    .transparent-header .mean-container a.meanmenu-reveal span {
+        background: #000;
+    }
+    .menu-icon{
+        display: none;
+    }
+}
+
+ 
+/* small mobile (XS):320px. */
+@media (max-width: 767px) {
+    .slider-img img {
+        padding-top: 100px;
+        margin-left: 0px;
+        width: 100%;
+    }
+    .transparent-header .mean-container a.meanmenu-reveal {
+        border: 1px solid #000;
+        color: #000;
+    }
+    .transparent-header .mean-container a.meanmenu-reveal span {
+        background: #000;
+    }
+    .slider-content {
+        padding-top: 290px;
+    }
+    .menu-icon{
+        display: none;
+    }
+    .slider-content {
+        padding-top: 50px;
+    }
+    .slider-bg-2 img {
+        width: 100%;
+    }
+    .icon-mr-2 {
+        left: 40%;
+    }
+    .justify-content-end {
+        -webkit-box-pack: start !important;
+        -ms-flex-pack: start !important;
+        justify-content: flex-start !important;
+    }
+    .slider-btn {
+        margin: 43px 0;
+    }
+    .test-all {
+        padding-top: 100px;
+    }
+    .pt-135 {
+        padding-top: 438px;
+    }
+    .contact-img img {
+        width: 100%;
+    }
+    .pt-135 {
+        padding-top: 436px;
+    }
+    .portfolio-mb{
+        margin-bottom: 30px !important;
+    }
+    .menu-icon{
+        display: none;
+    }
+    #btnScrollToTop {
+        right: 44%;
+    }
+    .meanmenu-reveal {
+        position: absolute;
+        top: 0;
+    }
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
